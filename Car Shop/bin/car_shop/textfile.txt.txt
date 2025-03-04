@@ -1,0 +1,3 @@
+Car, Toyota, 2023, blue, 5, sedan
+Truck, Toyota, 2023, yellow, 6
+Motorcycle, Yamaha, 2022, red, 80.0
